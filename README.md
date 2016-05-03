@@ -1,1 +1,2 @@
 # MavenTest
+Changed the content
